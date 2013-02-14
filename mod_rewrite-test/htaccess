@@ -1,0 +1,5 @@
+# SCRIPT CREATED BY WEBUNE.COM
+# THIS WORKS WITH rewrite.php FILE
+# READ MORE AT: http://www.webune.com/forums/how-to-test-check-if-mod-rewrite-is-enabled-t40.html
+RewriteEngine On
+RewriteRule ^link([^/]*).html$ rewrite.php?link=$1 [L] 
