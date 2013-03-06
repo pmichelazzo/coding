@@ -1,0 +1,4 @@
+name = Change Forms
+description = Módulo customizado para trabalhar com diversos formulários do site.
+core = 7.x
+package = Customized Modules

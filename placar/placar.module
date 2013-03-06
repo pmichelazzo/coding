@@ -1,0 +1,16 @@
+<?php
+/**
+ * @file
+ * Módulo que esconde os campos de placar quando um jogo é criado e apresenta os mesmos quando o node é editado.
+ */
+
+function placar_form_alter(&$form, $form_state, $form_id) {
+	if($form_id == 'jogos_node_form'){
+		//dpm($form);
+		drupal_set_message("Form ID is : " . $form_id);
+		$form['field_jog_normal_gfc']['#access'] = true;
+		//$form['#fieldgroups']['group_placares']['#access'] = false;
+	}
+	
+}
+ 
