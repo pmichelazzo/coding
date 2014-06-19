@@ -1,8 +1,8 @@
 Códigos, snippets e outros
 =======
-*(for English read below)*
+*(for English, read below)*
 
-Neste repositório você encontra códigos, listagens, snippets de códigos e outras coisas relacionadas com desenvolvimento de minha autoria para diferentes sistemas e utilizações.
+Neste repositório você encontra códigos, listagens, snippets de códigos e outras coisas relacionadas com desenvolvimento, de minha autoria, para diferentes sistemas e utilizações.
 
 O que cada pasta contém:
 

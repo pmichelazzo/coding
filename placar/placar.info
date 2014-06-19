@@ -1,4 +1,0 @@
-name = Placar
-description = Módulo para esconder dados de placar na criação de jogos.
-core = 7.x
-package = Customized Modules
