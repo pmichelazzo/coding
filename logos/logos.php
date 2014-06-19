@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Logos
-Plugin URI: 
+Plugin URI: https://github.com/pmichelazzo/codigos/tree/master/logos
 Description: Plugin para carregamento de logomarcas em páginas do website.
 Author: Paulino Michelazzo
 Version: 0.1
